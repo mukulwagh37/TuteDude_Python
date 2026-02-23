@@ -1,2 +1,2 @@
-# TuteDude_Python
-Python Practicals
+**# TuteDude_Python
+Python Practicals**
