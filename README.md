@@ -1,3 +1,2 @@
 **# TuteDude_Python
-Python Practicals**
-sasjha
+Python Practicals
